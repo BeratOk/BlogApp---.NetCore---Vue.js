@@ -11945,11 +11945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\.NetCore Api Service\\CoreServices\\CoreServices.csproj",
+      "projectUniqueName": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\BlogApp---.NetCore---Vue.js\\.NetCore Api Service\\CoreServices\\CoreServices.csproj",
       "projectName": "CoreServices",
-      "projectPath": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\.NetCore Api Service\\CoreServices\\CoreServices.csproj",
+      "projectPath": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\BlogApp---.NetCore---Vue.js\\.NetCore Api Service\\CoreServices\\CoreServices.csproj",
       "packagesPath": "C:\\Users\\Berat OK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\.NetCore Api Service\\CoreServices\\obj\\",
+      "outputPath": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\BlogApp---.NetCore---Vue.js\\.NetCore Api Service\\CoreServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Berat OK\\AppData\\Roaming\\NuGet\\NuGet.Config",

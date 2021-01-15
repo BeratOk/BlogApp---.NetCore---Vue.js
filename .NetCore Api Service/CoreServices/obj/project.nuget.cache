@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bC6FLis8G2J1jH86bznVsPC+qaaYReV5AaBQ/1bo+h0MHg8imZmMSUoW+B7Lx7K50Y38YdCTVWrMTjDXE1BhNg==",
+  "dgSpecHash": "LDti3rmiH35kJRUTS1uUK0nZtjfUCJAqEoetLUAy6WzaBM4slKbwFsv3+7Q8hWW6k8oESWobtn+1jRvKqwrzTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\.NetCore Api Service\\CoreServices\\CoreServices.csproj",
+  "projectFilePath": "C:\\Users\\Berat OK\\Desktop\\BeratOk BlogApp\\BlogApp---.NetCore---Vue.js\\.NetCore Api Service\\CoreServices\\CoreServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berat OK\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Berat OK\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
