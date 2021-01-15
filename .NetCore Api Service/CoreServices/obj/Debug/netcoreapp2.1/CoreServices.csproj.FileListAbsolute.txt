@@ -1,0 +1,17 @@
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.deps.json
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.runtimeconfig.json
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.runtimeconfig.dev.json
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.dll
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\bin\Debug\netcoreapp2.1\CoreServices.pdb
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.csprojAssemblyReference.cache
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.AssemblyInfoInputs.cache
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.AssemblyInfo.cs
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.csproj.CoreCompileInputs.cache
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorAssemblyInfo.cache
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorAssemblyInfo.cs
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.RazorTargetAssemblyInfo.cache
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.dll
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.pdb
+C:\Users\Berat OK\source\repos\CoreServices\CoreServices\obj\Debug\netcoreapp2.1\CoreServices.genruntimeconfig.cache
